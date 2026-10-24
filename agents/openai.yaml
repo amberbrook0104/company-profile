@@ -1,0 +1,6 @@
+interface:
+  display_name: "上市公司一页概览"
+  short_description: "输入股票全称、简称或代码，以Tushare或AKShare生成含业务、财务、估值与股东的中文公司一页概览。"
+  default_prompt: "使用 $company-profile，根据我输入的股票名称、简称或代码，自动识别A股证券并生成中文一页概览；有Tushare Token则使用，否则使用AKShare。"
+policy:
+  allow_implicit_invocation: true

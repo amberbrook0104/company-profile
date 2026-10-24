@@ -1,0 +1,2 @@
+# No-token fallback. The Tushare HTTPS client uses the Python standard library.
+akshare>=1.19.3,<2

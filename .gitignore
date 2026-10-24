@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+references/local-config.json
+*token*.txt
+*token*.csv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.company-profile-cache/
+output/
+dist/
+.DS_Store
+Thumbs.db

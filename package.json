@@ -1,0 +1,7 @@
+{
+  "name": "company-profile-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source-backed A-share company one-pager Skill",
+  "devDependencies": { "playwright": "^1.56.0" }
+}

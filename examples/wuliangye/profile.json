@@ -1,0 +1,309 @@
+{
+  "schema_version": 1,
+  "code": "000858.SZ",
+  "as_of": "20261023",
+  "retrieved_at": "2026-10-23T12:48:23+08:00",
+  "company": {
+    "ts_code": "000858.SZ",
+    "symbol": "000858",
+    "name": "五粮液",
+    "fullname": "宜宾五粮液股份有限公司",
+    "area": "四川",
+    "industry": "白酒",
+    "market": "主板",
+    "list_date": "19980427",
+    "exchange": "SZSE",
+    "com_name": "宜宾五粮液股份有限公司",
+    "chairman": "邓敏",
+    "manager": "华涛",
+    "setup_date": "19980421",
+    "province": "四川",
+    "city": "宜宾市",
+    "employees": 25216,
+    "website": "www.wuliangye.com.cn",
+    "introduction": "宜宾五粮液股份有限公司是以五粮液及其系列酒的生产、销售为主要产业,同时生产经营精密塑胶制品、大中小高精尖注射和冲压模具现代制造产业,以及生物工程为发展产业,药业工业、印刷业、电子器件产业、物流运输和相关的服务业的具有深厚企业文化的现代化企业集团.主要从事\"五粮液\"及其系列白酒的生产和销售.数年来\"五粮液\"品牌连续在中国白酒制造业和食品行业\"最有价值品牌\"中排位居前.公司获得\"全国质量奖开展十周年(2001-2010年)卓越组织奖\"、\"中国食品安全最具社会责任感企业\"等多项大奖,其中国家级5项、省级6项、市级3项.公司热心参与公益事业,获得\"2010年度第八届中国财经风云榜十大公益企业\"奖.2010年,\"五粮液\"品牌价值蝉联食品行业榜首,居中国最有价值品牌第4位.公司运作进一步规范,赢得资本市场认同,获得\"中国证券20年-20家最具持续成长能力上市公司\"、\"上市公司金牛百强\"等多项荣誉。",
+    "main_business": "酒类及相关辅助产品的生产销售。"
+  },
+  "market": {
+    "ts_code": "000858.SZ",
+    "trade_date": "20261022",
+    "close": 71.73,
+    "pe_ttm": 21.2811,
+    "pb": 2.35,
+    "ps_ttm": 6.128,
+    "dv_ttm": 7.1881,
+    "total_mv": 27842774.184,
+    "circ_mv": 27842095.6182,
+    "total_share": 388160.8005
+  },
+  "financials": [
+    {
+      "period": "20231231",
+      "revenue": 83272067317.19,
+      "revenue_field": "revenue",
+      "net_profit_parent": 30210585269.3,
+      "revenue_yoy": 12.577528157927853,
+      "assets": 165432981684.75,
+      "liabilities": 33083608497.58,
+      "equity_parent": 129558241040.51,
+      "operating_cashflow": 41742479908.23,
+      "parent_net_margin": 36.279374636185565,
+      "debt_ratio": 19.99819392763186,
+      "announcement_dates": {
+        "income": "20240429",
+        "balancesheet": "20240429",
+        "cashflow": "20240429"
+      },
+      "company_type": "1"
+    },
+    {
+      "period": "20241231",
+      "revenue": 89175178322.7,
+      "revenue_field": "revenue",
+      "net_profit_parent": 31853172533.98,
+      "revenue_yoy": 7.088944943596243,
+      "assets": 188252218704.17,
+      "liabilities": 51857424971.48,
+      "equity_parent": 133285282015.97,
+      "operating_cashflow": 33939755192.78,
+      "parent_net_margin": 35.71977441829417,
+      "debt_ratio": 27.546780233688317,
+      "announcement_dates": {
+        "income": "20250426",
+        "balancesheet": "20250426",
+        "cashflow": "20250426"
+      },
+      "company_type": "1"
+    },
+    {
+      "period": "20251231",
+      "revenue": 40528509770.23,
+      "revenue_field": "revenue",
+      "net_profit_parent": 8954257202.51,
+      "revenue_yoy": -54.55180406416606,
+      "assets": 189984270815.47,
+      "liabilities": 67803587170.33,
+      "equity_parent": 119932271234.99,
+      "operating_cashflow": 29706259919.13,
+      "parent_net_margin": 22.093724277736214,
+      "debt_ratio": 35.68905303544155,
+      "announcement_dates": {
+        "income": "20260430",
+        "balancesheet": "20260430",
+        "cashflow": "20260430"
+      },
+      "company_type": "1"
+    },
+    {
+      "period": "20260630",
+      "revenue": 28416674541.77,
+      "revenue_field": "revenue",
+      "net_profit_parent": 8752942991.31,
+      "revenue_yoy": 20.870728739984834,
+      "assets": 184999362605.88,
+      "liabilities": 64054972918.06,
+      "equity_parent": 118480043070.54,
+      "operating_cashflow": -2153568792.32,
+      "parent_net_margin": 30.802136887776744,
+      "debt_ratio": 34.624428979532105,
+      "announcement_dates": {
+        "income": "20260829",
+        "balancesheet": "20260829",
+        "cashflow": "20260829"
+      },
+      "company_type": "1"
+    }
+  ],
+  "segments": {
+    "period": "20251231",
+    "dimension": "P",
+    "currency": "CNY",
+    "items": [
+      {
+        "name": "五粮液产品",
+        "revenue": 27936099726.56,
+        "listed_share": 68.92950144216827
+      },
+      {
+        "name": "其他酒产品",
+        "revenue": 9167892506.03,
+        "listed_share": 22.620847788398642
+      },
+      {
+        "name": "非酒类产品",
+        "revenue": 3424517537.64,
+        "listed_share": 8.44965076943308
+      }
+    ],
+    "issues": [],
+    "verified": true,
+    "denominator": "2025年度合并营业收入",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF",
+    "source_pages": [
+      10,
+      13
+    ],
+    "verification_note": "剔除产品总计、酒类产品小计；五粮液产品、其他酒产品及非酒类产品三类互斥，合计与合并营收一致。"
+  },
+  "holders": {
+    "period": "20260630",
+    "items": [
+      {
+        "ts_code": "000858.SZ",
+        "ann_date": "20260829",
+        "end_date": "20260630",
+        "holder_name": "宜宾发展控股集团有限公司",
+        "hold_amount": 1336548020.0,
+        "hold_ratio": 34.4328,
+        "holder_type": "一般企业"
+      },
+      {
+        "ts_code": "000858.SZ",
+        "ann_date": "20260829",
+        "end_date": "20260630",
+        "holder_name": "四川省宜宾五粮液集团有限公司",
+        "hold_amount": 802619277.0,
+        "hold_ratio": 20.6775,
+        "holder_type": "一般企业"
+      },
+      {
+        "ts_code": "000858.SZ",
+        "ann_date": "20260829",
+        "end_date": "20260630",
+        "holder_name": "香港中央结算有限公司",
+        "hold_amount": 67854596.0,
+        "hold_ratio": 1.7481,
+        "holder_type": "一般企业"
+      },
+      {
+        "ts_code": "000858.SZ",
+        "ann_date": "20260829",
+        "end_date": "20260630",
+        "holder_name": "中国证券金融股份有限公司",
+        "hold_amount": 62460815.0,
+        "hold_ratio": 1.6091,
+        "holder_type": "证券公司"
+      },
+      {
+        "ts_code": "000858.SZ",
+        "ann_date": "20260829",
+        "end_date": "20260630",
+        "holder_name": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
+        "hold_amount": 60147752.0,
+        "hold_ratio": 1.5496,
+        "holder_type": "其他金融产品"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "api": "stock_basic",
+      "url": "https://tushare.pro/document/2?doc_id=25",
+      "params": {
+        "ts_code": "000858.SZ"
+      },
+      "retrieved_at": "2026-10-23T12:48:15+08:00",
+      "status": "ok",
+      "rows": 1,
+      "message": ""
+    },
+    {
+      "api": "stock_company",
+      "url": "https://tushare.pro/document/2?doc_id=112",
+      "params": {
+        "ts_code": "000858.SZ"
+      },
+      "retrieved_at": "2026-10-23T12:48:15+08:00",
+      "status": "ok",
+      "rows": 1,
+      "message": ""
+    },
+    {
+      "api": "income",
+      "url": "https://tushare.pro/document/2?doc_id=33",
+      "params": {
+        "ts_code": "000858.SZ",
+        "start_date": "20210101",
+        "end_date": "20261023",
+        "report_type": "1"
+      },
+      "retrieved_at": "2026-10-23T12:48:16+08:00",
+      "status": "ok",
+      "rows": 34,
+      "message": ""
+    },
+    {
+      "api": "balancesheet",
+      "url": "https://tushare.pro/document/2?doc_id=36",
+      "params": {
+        "ts_code": "000858.SZ",
+        "start_date": "20210101",
+        "end_date": "20261023",
+        "report_type": "1"
+      },
+      "retrieved_at": "2026-10-23T12:48:17+08:00",
+      "status": "ok",
+      "rows": 33,
+      "message": ""
+    },
+    {
+      "api": "cashflow",
+      "url": "https://tushare.pro/document/2?doc_id=44",
+      "params": {
+        "ts_code": "000858.SZ",
+        "start_date": "20210101",
+        "end_date": "20261023",
+        "report_type": "1"
+      },
+      "retrieved_at": "2026-10-23T12:48:18+08:00",
+      "status": "ok",
+      "rows": 32,
+      "message": ""
+    },
+    {
+      "api": "daily_basic",
+      "url": "https://tushare.pro/document/2?doc_id=32",
+      "params": {
+        "ts_code": "000858.SZ",
+        "start_date": "20260908",
+        "end_date": "20261023"
+      },
+      "retrieved_at": "2026-10-23T12:48:19+08:00",
+      "status": "ok",
+      "rows": 27,
+      "message": ""
+    },
+    {
+      "api": "top10_holders",
+      "url": "https://tushare.pro/document/2?doc_id=61",
+      "params": {
+        "ts_code": "000858.SZ",
+        "start_date": "20210101",
+        "end_date": "20261023"
+      },
+      "retrieved_at": "2026-10-23T12:48:20+08:00",
+      "status": "ok",
+      "rows": 240,
+      "message": ""
+    },
+    {
+      "api": "fina_mainbz",
+      "url": "https://tushare.pro/document/2?doc_id=81",
+      "params": {
+        "ts_code": "000858.SZ",
+        "period": "20251231",
+        "type": "P"
+      },
+      "retrieved_at": "2026-10-23T12:48:22+08:00",
+      "status": "ok",
+      "rows": 5,
+      "message": ""
+    }
+  ],
+  "notes": [
+    "公司基本资料为抓取时点快照。主营构成无公告日期，历史时点须核对原公告。",
+    "财务使用合并累计报表，金额人民币元；市值原始单位万元。",
+    "2025年报披露调整当年部分业务收入确认；2025年中期比较数需使用更正后的数据。",
+    "主营结构已对照2025年报第10、13页核验；金额来自Tushare，原始层级保留在raw.json。"
+  ]
+}
