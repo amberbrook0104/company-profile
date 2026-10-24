@@ -4,9 +4,13 @@
 
 **Tushare 有 Token 就用；没有 Token 用 AKShare。** 当前采集范围为沪深京 A 股，数据与来源可检查，HTML可离线打开。
 
-![五粮液一页概览示例](examples/wuliangye/company-profile.png)
+![五粮液品牌增强版公司一页概览](examples/wuliangye/company-profile-enhanced.png)
 
-[查看示例HTML源码](examples/wuliangye/company-profile.html) · [示例数据](examples/wuliangye/profile.json)
+[查看增强版HTML源码](examples/wuliangye/company-profile-enhanced.html) · [示例数据](examples/wuliangye/profile.json) · [增强版制作口径](references/enhanced-example.md)
+
+展示图为品牌增强版：采用五粮液品牌配色和官方Logo，包含产品原图、古窖池实景、营收结构、销售片区地图、财务摘要与股东信息。图片和素材均内嵌在HTML中，下载后可以离线打开。
+
+Skill以这个增强版成品为视觉参考，由Agent根据各公司的官方素材与披露信息完成排版。命令行 `run_profile.py` 先生成数据和基础模板；它不会自动取得所有企业的品牌图片，也不会凭空生成区域分布。没有可信地域数据时省略地图。
 
 示例是2026年10月23日采集的历史快照，财务最新期为2026年半年报、行情日期为2026年10月22日，不会自动更新。营收结构已对照年报核实。案例用于展示排版与数据口径。
 
